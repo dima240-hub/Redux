@@ -1,0 +1,16 @@
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+export const EMTY_CART = 'EMTY_CARD';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const SET_PERSONS = 'SET_PERSONS';
+export const SET_ACTIVE = 'SET_ACTIVE';
+export const ADD_TO_FAVORITE = 'ADD_TO_FAVORITE';
+export const REMOVE_TO_FAVORITE = 'REMOVE_TO_FAVORITE';
+export const PRODUCT_LIST = 'PRODUCT_LIST';
+export const SET_PRODUCT_LIST = 'SET_PRODUCT_LIST';
+export const PRODUCT_FAVORITE_LIST = 'PRODUCT_FAVORITE_LIST';
+export const SET_FAVORITE_LIST = 'SET_FAVORITE_LIST';
+export const SET_RATE = 'SET_RATE';
+export const PRODUCT_IMAGE_LIST = 'PRODUCT_IMAGE_LIST';
+export const SET_IMAGE_LIST = 'SET_IMAGE_LIST';
+export const SEARCH_LIST = 'SEARCH_LIST';
